@@ -1,5 +1,12 @@
 hello jeremie
+<<<<<<< HEAD
+cnfhvbfhdvcn cn  cnfhvbfhdvcn
+
+cvfr
+ huuuum
+=======
 
 fdjkbfhjrb
 
 rfehjbvjd
+>>>>>>> 224e5c44a10ec536c7394297678df21be37e3a64
